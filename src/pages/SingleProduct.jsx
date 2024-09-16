@@ -92,7 +92,7 @@ const SingleProduct = () => {
           <div className="mt-10">
             <button
               className="btn btn-secondary"
-              onClick={() => console.log("add to bag")}
+              onClick={() => console.log("add to bag")} // need to continue from here
             >
               Add to bag
             </button>
